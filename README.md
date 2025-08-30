@@ -23,20 +23,9 @@ Genomics | Transcriptomics | Sequence Analysis | Data Visualization | Statistica
 
 ---
 
-## Currently Learning 🧠
-
-- Advanced **Machine Learning** for biological data  
-- **Single-cell RNA-seq analysis**  
-- **Deep learning** applications in genomics  
-- New tools: **Nextflow**, **Snakemake**, **PyTorch**  
-
----
-
 ## Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/tetiana-velehura/)  
 - 📫 Email: velegura00@gmail.com
 
 ---
-
-*"Data is the new DNA — let's decode it together!"*  
