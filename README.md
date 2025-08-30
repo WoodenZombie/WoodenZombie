@@ -1,19 +1,42 @@
-**Languages I speak**:
-  * Russian *(native speaker)*
-  * Ukrainian *(native speaker)*
-  * English C1-C2
-  * Czech B2-C1
-  * German A1
+# Hi there, I'm Tetiana Velehura 👋
 
-<div align="center">
-  
- <a href="https://www.linkedin.com/in/WoodenZombie/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
- <a href="https://discordapp.com/users/296321753339265024"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
- <br>
- [![Stats](https://github-readme-stats.vercel.app/api?username=WoodenZombie&show_icons=true&theme=nord&count_private=true&hide_border=true)](https://github.com/WoodenZombie)
- <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoodenZombie&langs_count=10&layout=compact&theme=nord&hide_border=true&disable_animations=true)](https://github.com/WoodenZombie/)
- 
- <img src="https://komarev.com/ghpvc/?username=WoodenZombie&color=lightgrey&style=for-the-badge" alt="lightgrey" />
- 
-</div>
+I'm a **Data Scientist** with a passion for **bioinformatics**, leveraging data to uncover insights in biology and medicine.  
+
+🔬 **Bioinformatics Enthusiast** | 📊 **Data Analytics** | 🤖 **Machine Learning**  
+
+---
+
+## Skills
+
+**Languages & Tools:**  
+Python | R | SQL | Git | Jupyter Notebook | Pandas | NumPy | Scikit-learn | TensorFlow | Biopython  
+
+**Bioinformatics:**  
+Genomics | Transcriptomics | Sequence Analysis | Data Visualization | Statistical Modeling  
+
+---
+
+## GitHub Stats
+
+![Tetiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoodenZombie&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WoodenZombie&layout=compact&theme=tokyonight)
+
+---
+
+## Currently Learning 🧠
+
+- Advanced **Machine Learning** for biological data  
+- **Single-cell RNA-seq analysis**  
+- **Deep learning** applications in genomics  
+- New tools: **Nextflow**, **Snakemake**, **PyTorch**  
+
+---
+
+## Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/tetiana-velehura/)  
+- 📫 Email: velegura00@gmail.com
+
+---
+
+*"Data is the new DNA — let's decode it together!"*  
