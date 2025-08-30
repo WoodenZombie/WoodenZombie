@@ -1,11 +1,3 @@
-I'm Alina Vinogradova, a recent alumna of [Brno University of Technology](https://www.fit.vut.cz/.en), where I completed my Bachelor's in Information Technology. 
-
-Some of my achievements: 
-* Information Security high school team SPOTLIGHT member (Russia, 2017-2019)
-* Winner of Regional Junior Information Security Competition @ Vladimir State University, Russia (2017)
-* Finalist of Russian National Junior Information Security Competition @ Bauman Moscow State University, Russia (2017)
-* Finalist of Russian National Junior Information Security Competition @ Innopolis University, Russia (2019)
-
 **Languages I speak**:
   * Russian *(native speaker)*
   * Ukrainian *(native speaker)*
