@@ -9,10 +9,7 @@ I'm a **Data Scientist** with a passion for **bioinformatics**, leveraging data 
 ## Skills
 
 **Languages & Tools:**  
-Python | R | SQL | Git | Jupyter Notebook | Pandas | NumPy | Scikit-learn | TensorFlow | Biopython  
-
-**Bioinformatics:**  
-Genomics | Transcriptomics | Sequence Analysis | Data Visualization | Statistical Modeling  
+Python | R | SQL | Git | Jupyter Notebook | Pandas | NumPy | Scikit-learn 
 
 ---
 
